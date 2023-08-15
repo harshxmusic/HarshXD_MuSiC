@@ -16,7 +16,7 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         [
             InlineKeyboardButton(
                 text="❤️𝐎ɯɳҽ𝐑❤️",
-                url=f"https://t.me/your_godfather_xd",
+                url=f"https://t.me/HARSH_XD_FIGHTER",
             )
         ],
         [
@@ -45,15 +45,15 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
                 text="🍒𝐂σɱɱαɳԃ𝐒🍒", callback_data="settings_back_helper"
             ),
             InlineKeyboardButton(
-                text="🥀𝐅συɳԃҽ𝐑🥀", user_id=OWNER
+                text="💌𝐅συɳԃҽ𝐑💌", user_id=OWNER
             )
         ],
         [
             InlineKeyboardButton(
-                text="💘𝐆ɾσυ𝐏💘", url=config.SUPPORT_GROUP
+                text="💌𝐆ɾσυ𝐏💌", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="💞𝐔ρ∂αтє𝐒💞", url=f"https://t.me/The_Incricible"
+                text="💟𝐔ρ∂αтє𝐒💟", url=f"https://t.me/FRIENDS_CONER"
             )
         ],
      ]

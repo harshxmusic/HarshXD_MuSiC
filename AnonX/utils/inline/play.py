@@ -235,16 +235,16 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/The_Incricible"
+                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/FRIENDS_CONER"
             ),
         
             InlineKeyboardButton(
-                text="💘𝐒υρρσят𝐓💘", url="https://t.me/INCRICIBLE"
+                text="💘𝐒υρρσят𝐓💘", url="https://t.me/FRIENDS_CONER"
             ),
         ],    
         [
             InlineKeyboardButton(
-                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/YOUR_GODFATHER_XD"
+                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/HARSH_XD_FIGHTER"
             ),
         
             InlineKeyboardButton(
@@ -479,16 +479,16 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/The_Incricible"
+                text="💘𝐔ρ∂αтє𝐒💘", url="https://t.me/FRIENDS_CONER"
             ),
         
             InlineKeyboardButton(
-                text="💘𝐒υρρσят𝐓💘", url="https://t.me/Incricible"
+                text="💘𝐒υρρσят𝐓💘", url="https://t.me/FRIENDS_CONER"
             ),
         ],    
         [
             InlineKeyboardButton(
-                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/Your_Godfather_xd"
+                text="🖤𝐎ɯɳҽ𝐑🖤", url="https://t.me/HARSH_XD_FIGHTER"
             ),
         
             InlineKeyboardButton(
